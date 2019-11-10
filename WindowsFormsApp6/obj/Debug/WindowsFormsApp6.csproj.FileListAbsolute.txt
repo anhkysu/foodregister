@@ -1,0 +1,28 @@
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Component1.resources
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\ts-575\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UserControl1.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Component1.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UserControl1.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.View.FRegisterSupplier.resources
+C:\Users\Khanh Trinh\project\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.View.FRegisterFood.resources
